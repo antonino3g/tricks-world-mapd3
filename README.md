@@ -3,7 +3,7 @@
 
 ## :mag: Screenshot
 <p align="center">
-  <img alt="world-map" src="demo/d3js.gif" width="100%">
+  <img alt="world-map" src="demo/world-d3js.gif" width="100%">
 </p>
 
 
