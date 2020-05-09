@@ -1,7 +1,7 @@
 # tricks-world-mapd3
-:earth_americas: 
+:earth_americas: Cheap Tricks for Interaction on a D3.js World Map.
 
-## :mag: Screenshot
+## :mag: Demo
 <p align="center">
   <img alt="world-map" src="demo/world-d3js.gif" width="100%">
 </p>
