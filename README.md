@@ -1,4 +1,4 @@
-# tricks-world-mapd3
+# :books: tricks-world-mapd3
 :earth_americas: Cheap Tricks for Interaction on a D3.js World Map.
 
 ## :mag: Demo
