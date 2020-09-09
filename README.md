@@ -13,4 +13,4 @@
 - [npm world-atlas](https://www.npmjs.com/package/world-atlas)
 
 
-Classroom with [Curran Kelleher](https://www.youtube.com/user/currankelleher/videos). Thanks so much!
+Acknowledgment: [Curran Kelleher](https://www.youtube.com/user/currankelleher/videos).
